@@ -103,7 +103,6 @@ nav ul li a.last {
 aside {
     width:260px;
     float:right;
-    border-left:1px dashed #aaa;
     padding-left:15px;
 }
 /* Login */
@@ -120,3 +119,27 @@ footer {
     clear:both;
 }/* CSS Document */
 
+#login-form {
+    background: url(../images/footerbackground.jpg);
+    color: #fff;
+}
+
+#login-form a {
+    color: #fff;
+}
+
+#login {
+    margin-bottom: 0;
+}
+
+.widget {
+    padding-bottom: 5px;
+}
+
+.widget h2 {
+    padding-top: 5px;
+}
+
+.widget .inner {
+    padding: 0 5px;
+}

@@ -1,4 +1,6 @@
-<?php include 'includes/overall/overallheader.php   '; ?>
+<?php
+include 'core/int.php';
+include 'includes/overall/overallheader.php   '; ?>
 <h1>Home</h1>
 <p>Just a template.</p>
 <?php include 'includes/overall/overallfooter.php   '; ?>
