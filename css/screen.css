@@ -42,10 +42,11 @@ h2 {
     padding:0;
     width:200px;
     color:#fff;
+    
 }
 /* Containers */
 body {
-    background:lightslategray;
+    background: url(../images/Border.jpg);
     font-family:Arial;
     font-size:0.8em;
 }
